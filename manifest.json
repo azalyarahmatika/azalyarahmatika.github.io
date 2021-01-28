@@ -1,0 +1,17 @@
+{
+    "name": "Football API PWA",
+    "short_name": "Football API",
+    "description": "Football API Submission 2 PWA",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#00897B",
+    "theme_color": "#00897B",
+    "gcm_sender_i": "585460981561",
+    "icons": [
+        {
+            "src": "icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
